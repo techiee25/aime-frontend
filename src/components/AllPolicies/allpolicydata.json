@@ -1,0 +1,185 @@
+[
+  {
+    "Id": "1",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 5000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "05/16/2035",
+    "Type": "All",
+    "Policy_Group": "Active"
+  },
+  {
+    "Id": "2",
+    "Policy_Name": "Wanderlust Platinum",
+    "Insurer": "AXIO Insurance Limited",
+    "Premium_Account": "Rs. 50000",
+    "Next_Due_Date": "NA",
+    "Maturity_Date": "02/15/2021",
+    "Type": "All",
+    "Policy_Group": "Active"
+  },
+
+  {
+    "Id": "3",
+    "Policy_Name": "Smart Driver Plan",
+    "Insurer": "AUTO Insurance Limited",
+    "Premium_Account": "Rs. 22000",
+    "Next_Due_Date": "NA",
+    "Maturity_Date": "01/18/2024",
+    "Type": "All",
+    "Policy_Group": "Active"
+  },
+  {
+    "Id": "5",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 5000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "05/16/2035",
+    "Type": "Self",
+    "Policy_Group": "Pending"
+  },
+  {
+    "Id": "19",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 50000",
+    "Next_Due_Date": "06/28/2022",
+    "Maturity_Date": "09/16/2035",
+    "Type": "All",
+    "Policy_Group": "Pending"
+  },
+  {
+    "Id": "11",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs.25000",
+    "Next_Due_Date": "06/28/2024",
+    "Maturity_Date": "05/16/2030",
+    "Type": "Self",
+    "Policy_Group": "Pending"
+  },
+  {
+    "Id": "6",
+    "Policy_Name": "Smart Driver Plan",
+    "Insurer": "AXIO Insurance Limited",
+    "Premium_Account": "Rs. 50000",
+    "Next_Due_Date": "NA",
+    "Maturity_Date": "02/15/2022",
+    "Type": "Self",
+    "Policy_Group": "Active"
+  },
+
+  {
+    "Id": "9",
+    "Policy_Name": "Smart Driver Plan",
+    "Insurer": "AUTO Insurance Limited",
+    "Premium_Account": "Rs. 22000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "01/18/2024",
+    "Type": "Self",
+    "Policy_Group": "Expired"
+  },
+  {
+    "Id": "12",
+    "Policy_Name": "New Insta_Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 5000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "05/16/2035",
+    "Type": "Self",
+    "Policy_Group": "Expired"
+  },
+  {
+    "Id": "13",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 50000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "09/16/2035",
+    "Type": "All",
+    "Policy_Group": "Expired"
+  },
+  {
+    "Id": "14",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs.25000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "05/16/2035",
+    "Type": "Self",
+    "Policy_Group": "Expired"
+  },
+  {
+    "Id": "16",
+    "Policy_Name": "Smart Driver Plan",
+    "Insurer": "AXIO Insurance Limited",
+    "Premium_Account": "Rs. 50000",
+    "Next_Due_Date": "NA",
+    "Maturity_Date": "02/15/2022",
+    "Type": "Spouse",
+    "Policy_Group": "Active"
+  },
+
+  {
+    "Id": "17",
+    "Policy_Name": "Smart Driver Plan",
+    "Insurer": "AUTO Insurance Limited",
+    "Premium_Account": "Rs. 22000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "01/18/2024",
+    "Type": "Spouse",
+    "Policy_Group": "Pending"
+  },
+  {
+    "Id": "18",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 5000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "05/16/2035",
+    "Type": "Spouse",
+    "Policy_Group": "Expired"
+  },
+  {
+    "Id": "19",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 50000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "09/16/2035",
+    "Type": "Child",
+    "Policy_Group": "Active"
+  },
+  {
+    "Id": "20",
+    "Policy_Name": "Smart Driver Plan",
+    "Insurer": "AUTO Insurance Limited",
+    "Premium_Account": "Rs. 22000",
+    "Next_Due_Date": "06/28/2025",
+    "Maturity_Date": "01/18/2030",
+    "Type": "Child",
+    "Policy_Group": "Pending"
+  },
+  {
+    "Id": "21",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 5000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "05/16/2035",
+    "Type": "All",
+    "Policy_Group": "Expired"
+  },
+  {
+    "Id": "22",
+    "Policy_Name": "New Insta Gold",
+    "Insurer": "BIG Life Insursance Limited",
+    "Premium_Account": "Rs. 50000",
+    "Next_Due_Date": "06/28/2020",
+    "Maturity_Date": "09/16/2035",
+    "Type": "Child",
+    "Policy_Group": "Expired"
+  }
+]

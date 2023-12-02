@@ -1,0 +1,303 @@
+.Claimscontainer {
+
+    box-shadow: 0 4px 8px rgb(0 0 0/ 20%);
+
+    margin-top: 5%;
+
+    min-height: 470px;
+
+    max-width: 850px;
+
+    position: relative;
+
+}
+
+.btn-success {
+
+    min-width: 300px !important;
+    background-color: #e62e00 !important;
+
+    min-height: 50px !important;
+
+    border-color: black !important;
+
+}
+
+.multistepprogresscontainer {
+    margin-top: 80px;
+}
+
+.custdetailscontainer {
+    margin-top: 40px;
+}
+
+.dropdown {
+
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+.dropdown-toggle {
+    display: inline-flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.darkdropdown {
+
+    border-color: white !important;
+    background-color: transparent !important;
+}
+
+.dropdown-menu.show {
+    min-width: 300px;
+}
+
+.buttoncontainer {
+    margin-left: 40px;
+}
+
+.backbtncust {
+
+    margin-right: 20px;
+
+    background: none;
+    border: none;
+
+    font-weight: 700;
+
+    color: darkgray;
+
+    pointer-events: none;
+}
+
+.nextbtncust {
+    background: #e62e00;
+    color: white;
+    border: none;
+    width: 55px;
+    height: 35px;
+
+    border-radius: 6px;
+}
+
+.disablednextbtn {
+
+    color: darkgray;
+    font-weight: 700;
+    border: none;
+    background: none;
+
+    pointer-events: none;
+
+}
+
+.fileupparent {
+
+    display: flex;
+
+    justify-content: space-evenly;
+
+    align-items: center;
+
+    margin-top: 10px;
+
+    margin-bottom: 10px;
+
+}
+
+.filebadgecont {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    margin-top: 20px;
+    margin-left: 20px;
+    gap: 5px;
+}
+
+.resetbutton {
+
+    border: 10x solid blueviolet;
+    border-radius: 4px;
+    width: max-content;
+    height: max-content;
+    padding: 4px;
+    color: blueviolet;
+    font-weight: 700;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.uploadboxcontainer {
+    border: 2px solid blueviolet;
+    position: relative;
+    padding: 8px 20px;
+}
+
+input[type='file'] {
+    position: absolute;
+    opacity: 0;
+    width: 120px;
+    right: 0px;
+    bottom: 0px;
+    padding: 5px;
+}
+
+.buttoncont {
+    margin-left: 40px;
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+}
+
+.backbtncust1 {
+    margin-right: 20px;
+    background: none;
+    border: none;
+    font-weight: 700;
+    color: blueviolet;
+}
+
+.nextbtncust1 {
+
+    background: #e62e00;
+
+    color: white;
+
+    border: none;
+    width: 55px;
+
+    height: 35px;
+
+    border-radius: 6px;
+}
+
+.submitedropdown {
+
+    max-width: 300px;
+    border: 1px solid whitesmoke;
+
+    margin: 20px;
+    height: 40px;
+
+    border-radius: 8px;
+
+    background: #e62e00;
+}
+
+.ddvalue {
+
+
+    display: flex;
+
+    height: 100%;
+
+    color: white;
+
+    font-weight: 700;
+
+    align-items: center;
+
+    padding-left: 20px;
+
+}
+
+I .uploadedfiles {
+
+    padding-left: 20px;
+    font-weight: 700;
+
+    color: #e62e00;
+
+    padding-bottom: 20px;
+}
+
+.buttoncont2 {
+
+    margin-left: 20px;
+    margin-top: 20px;
+
+    padding-bottom: 20px;
+}
+
+.submitreset {
+
+    border: none !important;
+    background: none !important;
+
+    font-weight: 700 !important;
+    color: #e62e00 !important;
+}
+
+.sbmtclaimstxt {
+
+    color: green;
+
+    font-weight: 700;
+
+    padding-left: 10px;
+}
+
+.headingclaims {
+
+    padding: 10px;
+
+    border-bottom: 1px solid black;
+    color: black;
+
+    font-weight: 700;
+}
+
+.maxfileerrormsg {
+    border: 2px solid #e62e00;
+    background: #e62e00;
+    height: fit-content;
+    width: fit-content;
+    padding: 8px;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.uploaderrortxt {
+
+    color: white;
+    font-weight: 700;
+    padding-left: 10px;
+}
+
+.nextbtncust1dark {
+
+    background-color: green !important;
+
+    color: white;
+
+    border: none;
+
+    width: 55px;
+
+    height: 35px;
+
+    border-radius: 6px;
+
+    margin-left: 10px;
+
+}
+
+.fileuploaddark {
+
+    color: white !important
+}
+
+.darktextuploaded {
+    color: green !important;
+}
+
+.headingclaimsdark {
+    padding: 10px;
+    border-bottom: 1px solid white;
+    color: white;
+    font-weight: 700;
+}

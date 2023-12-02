@@ -1,0 +1,28 @@
+.homesidebar{
+    padding-top: 10%;
+    padding-left: 10%;
+    height: 520px;
+    display: flex;
+}
+.css-1wvake5{
+    border-color: unset;
+}
+.css-dip3t8{
+    font-weight: bolder;
+}
+.css-ewdv31{
+    padding-top: 20% !important;
+}
+.css-ylonsm:hover{
+    background-color: red !important;
+    color: white !important;
+}
+.css-i4bv87-MuiSvgIcon-root{
+    width: 90px !important;
+    height: 90px !important;
+    margin-left: 22%;
+    margin-top: 10%;
+}
+.homesidebardark >a:hover{
+    background-color: green !important;
+}

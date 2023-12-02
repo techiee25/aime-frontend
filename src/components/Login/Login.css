@@ -1,0 +1,86 @@
+.loginpage {
+  text-align: center;
+}
+.login-container {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  margin-left: 20%;
+  margin-right: 10%;
+  margin-top: 10%;
+  padding-bottom: 3%;
+}
+.usericon {
+  padding-top: 10%;
+}
+.signmain {
+  padding-bottom: 30%;
+  font-weight: bold;
+}
+.signin {
+  font-weight: 500;
+  font-size: 25px;
+}
+.loginmain {
+  padding-bottom: 30px;
+}
+.guestmain {
+  padding-bottom: 50px;
+}
+.loginuser {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  border-color: light gray;
+  padding: 5px;
+}
+.guestuser{
+    background-color: white;
+    color: lightgrey;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: lightgray;
+    padding: 5px;
+}
+.termsandcontact{
+    text-align: end;
+}
+.termsandcondition{
+    margin-right: 15%;
+}
+.helpandcontact{
+    margin-right: 1%;
+}
+.signmain1{
+    font-weight: bold;
+    padding-bottom: 5%;
+}
+.bullet-points{
+    padding-left: 15%;
+    padding-bottom: 3%;
+}
+.checkmark{
+    padding-right: 5%;
+}
+.textcontainer{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.platform{
+    text-align: start;
+    padding-bottom: 3%;
+    padding-left: 5%;
+}
+.button{
+    margin: 3%;
+    border-radius: 10px;
+    border: 0;
+    padding: 2%;
+}
+.darkmaintxt{
+    color: white;
+    padding: 10px;
+}

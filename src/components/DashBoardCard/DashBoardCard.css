@@ -1,0 +1,13 @@
+.mainpagecontainer{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    margin-top: 5%;
+    min-height: 470px;
+    max-width: 850px;
+}
+.dashboardcardcontainer{
+    padding-top: 1%;
+    padding-left: 5%;
+}
+.css-mhc70k-MuiGrid-root>.MuiGrid-item{
+    padding-right: 16px;
+}
