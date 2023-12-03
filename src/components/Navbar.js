@@ -96,11 +96,11 @@ function BasicExample() {
             ></img>
             {isProfile == true && (
               <div className="userprofiledropdown">
-                <div className="ddoptions" onclick={() => isLogout()}>
+                <div className="ddoptions" onClick={() => isLogout()}>
                   {" "}
                   Logout{" "}
                 </div>
-                <div className-ddoptions anclick={() => navigate("/dashboard")}>
+                <div className-ddoptions onClick={() => navigate("/dashboard")}>
                   {" "}
                   DashBoard{" "}
                 </div>{" "}
