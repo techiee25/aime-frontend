@@ -13,7 +13,7 @@ function Login() {
   }, []);
 
   return (
-    <div>
+    <div className="loginparent">
       <div className={`row ${themeName === "dark" && "dark"}`}>
         <div className="loginpage col-lg-6">
           <div

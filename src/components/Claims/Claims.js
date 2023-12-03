@@ -300,7 +300,7 @@ export default function Claims() {
                             : "nextbtncust1"
                         }`}
                         style={{ width: "64px" }}
-                        omClick={() => onMyClaims()}
+                        onClick={() => onMyClaims()}
                       >
                         Submit
                       </button>
@@ -352,7 +352,7 @@ export default function Claims() {
               <div>
                 <div
                   className={`row ${
-                    themeName == "dark" ? "headingClaimsdark" : "headingClaims"
+                    themeName == "dark" ? "headingclaimsdark" : "headingclaims"
                   }`}
                 >
                   <div className="col-2">SL.No</div>
