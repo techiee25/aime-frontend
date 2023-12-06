@@ -66,12 +66,12 @@ export default function Claims() {
   };
 
   const nextPageNumber = (pageNumber) => {
-    // switch (pageNumber) (
+    // switch (pageNumber) {
     // case "1":
     // setPage("pageons");
     // break;
     // case "2":
-    // setPage("pagetwo");
+    // setPage("pagetwo");}
   };
 
   const fileUpload = (e) => {

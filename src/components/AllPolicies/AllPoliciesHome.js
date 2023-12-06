@@ -433,7 +433,7 @@ export default function AllPoliciesHome({ spousePolicy, isChildPolicy }) {
               <>
                 <TabPanel value="1">
                   <div className="container">
-                    <table className="table table-striped">
+                    <table className={`table table-striped ${themeName === 'dark' && 'tabledark'}`}>
                       <thead>
                         <tr>
                           <th
