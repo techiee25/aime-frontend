@@ -23,6 +23,13 @@
     margin-left: 22%;
     margin-top: 10%;
 }
+.css-vubbuv{
+    /* after deployment */
+    width: 90px !important;
+    height: 90px !important;
+    margin-left: 22%;
+    margin-top: 10%; 
+}
 .homesidebardark >a:hover{
     background-color: green !important;
 }
