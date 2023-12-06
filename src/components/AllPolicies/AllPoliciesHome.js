@@ -56,7 +56,7 @@ export default function AllPoliciesHome({ spousePolicy, isChildPolicy }) {
   }, []);
 
   const allPolicyApi = async () => {
-    const response = await fetch("http://localhost:4000/aime/api")
+    const response = await fetch("https://aime-backend.onrender.com/aime/api")
       .then((res) => res.json())
       .catch((e) => console.log(e));
     setData(response);
