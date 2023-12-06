@@ -34,7 +34,7 @@ export default function DashBoardCard(props) {
         <Row>
           <div className={`${themeName === "dark" && "darkthemetext"}`}>
             <strong>
-              <h3>Policies</h3>
+              <h3 style={{marginLeft: '16px'}}>Policies</h3>
             </strong>
           </div>
           <Grid container spacing={2}>
@@ -107,7 +107,7 @@ export default function DashBoardCard(props) {
         <Row>
           <div className={`${themeName === "dark" && "darkthemetext"}`}>
             <strong>
-              <h3>Apps</h3>
+              <h3 style={{marginLeft: '16px'}}>Apps</h3>
             </strong>
           </div>
           <Grid container spacing={2}>

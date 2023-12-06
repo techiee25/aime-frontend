@@ -28,6 +28,7 @@ body {
 
 .site-title {
   font-size: 2rem;
+  margin-left: 20px;
 }
 
 .nav ul {
@@ -149,7 +150,7 @@ I .darkdashboardsinglecard {
 }
 
 .darkallpoliciestabs {
-  color: green limportant;
+  color: green !important;
 }
 
 .userprofiledropdown {

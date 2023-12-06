@@ -23,6 +23,11 @@
   font-weight: 500;
   font-size: 25px;
 }
+.signindark{
+  font-weight: 500;
+  font-size: 25px;
+  color:white
+}
 .loginmain {
   padding-bottom: 30px;
 }

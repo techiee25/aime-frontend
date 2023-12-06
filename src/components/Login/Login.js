@@ -23,7 +23,7 @@ function Login() {
               <img src={usericon} height="40" width="40" />
             </div>
             <div className="signmain">
-              <label className="signin">Sign in</label>
+              <label className={`${themeName === 'dark' ? 'signindark': 'signin'}`}>Sign in</label>
             </div>
             <div>
               <div className="loginmain">
@@ -61,7 +61,7 @@ function Login() {
             <div
               className={`${themeName === "dark" ? "darkmaintx" : "signmain1"}`}
             >
-              <label className="signin">Why Register?</label>
+              <label className={`${themeName === 'dark' ? 'signindark': 'signin'}`}>Why Register?</label>
             </div>
             <div className={`${themeName === "dark" && "darkmaintxt"}`}>
               <div className="loginmain1">
